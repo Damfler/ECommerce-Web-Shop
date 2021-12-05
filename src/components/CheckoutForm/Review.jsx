@@ -1,5 +1,5 @@
-import React from 'react';
-import {Typography, List, ListItem, ListItemText} from '@material-ui/core';
+import React from 'react'
+import {Typography, List, ListItem, ListItemText} from '@material-ui/core'
 
 const Review = ({checkoutToken}) => (
     <>
@@ -19,6 +19,6 @@ const Review = ({checkoutToken}) => (
             </ListItem>
         </List>
     </>
-);
+)
 
-export default Review;
+export default Review
